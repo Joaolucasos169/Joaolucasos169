@@ -17,4 +17,4 @@
 
 * Tecnologias Utilizadas
   
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,react,git,discord,github,md,postgres,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,react,git,discord,github,postgres,vite&theme=dark)](https://skillicons.dev)
