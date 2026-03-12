@@ -3,10 +3,11 @@
  def sobreMim():
     nome = "João Lucas"
     cidade = "Fortaleza, CE"
-    idade = 22
+    idade = 23
     print('''
-    Atualmente, estudo Análise e Desenvolvimento de Sistemas na UNIFOR e no SENAC.
-    Estou sempre em busca de aprimorar minhas habilidades em programação e desenvolvimento de software.
+- Graduação: Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) pela UNIFOR.
+- Formação Técnica: Técnico em ADS pelo SENAC.
+- Pós-Graduação (Em andamento): DevOps e Full Stack pela UniFametro.
     ''')
 ```
 <div>
